@@ -2,4 +2,6 @@
 
 ![GITHUB Commit Screenshot](./image.png)
 
-![Merge Output Screenshot Screenshot](./merge_image.png)
+![Merge Output Screenshot](./merge_image.png)
+
+![Successful Merge Screenshot](./successful_merge_image.png)
