@@ -1,3 +1,4 @@
 This line was added on develop.
 This line was added in c4.
 This is a rebase test file.
+This line was added in the second commit.
